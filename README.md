@@ -7,4 +7,4 @@ For each Project on the site it scrapes the following:-
 4. "RERA Regd. No."
 5. "GST No."
 
-command to run this in cmd(make sure you have selenium installed and U R in the directory/folder where this code is) :- python scrapeV2.py
+command to run this in cmd(make sure you have selenium installed and U R in the directory/folder where this code is) = "python scrapeV2.py"
